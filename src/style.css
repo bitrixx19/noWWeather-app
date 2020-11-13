@@ -42,9 +42,9 @@ body {
   }
   
   .weather-app {
-   
+    padding: 25px 30px;
     border: 5px solid black;
-    border-radius: 25px;
+    border-radius: 80px;
   }
   
   .overview {
