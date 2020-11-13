@@ -1,5 +1,5 @@
 body {
-    font-family: bree-serif, sans-serif;
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-weight: bold;
     background-color: white;
     
@@ -7,7 +7,7 @@ body {
   
   h1 {
     color:white;
-    font-size: 25px;
+    font-size: 40px;
     font-weight: 100;
     line-height: 30px;
     margin-bottom: 0;
