@@ -42,7 +42,7 @@ body {
   }
   
   .weather-app {
-    padding: 25px;
+   
     border: 5px solid black;
     border-radius: 25px;
   }
@@ -110,7 +110,4 @@ body {
     white-space: nowrap;
   }
 
-  .searchform{
-    color:white;
-    
-  }
+  
