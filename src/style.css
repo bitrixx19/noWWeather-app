@@ -36,14 +36,14 @@ body {
   .weather-app-wrapper {
     max-width: 600px;
     margin: 60px auto;
-    background-image:white;
+    background-color: whitesmoke;
     
   }
   
   .weather-app {
-    padding: 30px;
-    border: 1px solid #dadde1;
-    border-radius: 5px;
+    padding: 70px;
+    border: 20px solid #dadde1;
+    border-radius: 30px;
   }
   
   .overview {
@@ -79,7 +79,7 @@ body {
   }
   
   .weather-forecast {
-    margin-top: 10px;
+    margin-top: 30px;
   }
   
   .weather-forecast h3 {
