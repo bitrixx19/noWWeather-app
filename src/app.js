@@ -125,6 +125,7 @@ function formatDate(timestamp) {
   celsiusLink.addEventListener("click", displayCelsiusTemperature);
   
   search("London");
+  
   // change info to current location
 function searchLocation(position) {
   let apiKey = "768d5798d6d791324557e57ef0abc21e";
